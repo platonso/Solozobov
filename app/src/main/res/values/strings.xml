@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="popular">Popular</string>
+    <string name="find_film">Find your favorite movie</string>
+    <string name="network_error_icon">Network error icon</string>
+    <string name="server_unavailable">Server unavailable.</string>
+    <string name="internet_unavailable">Internet unavailable.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="genres">Genres: </string>
+    <string name="countries">Countries: </string>
+    <string name="poster_image">Poster Image</string>
+    <string name="back_icon">Back Icon</string>
+</resources>

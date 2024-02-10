@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="search_icon">Поиск</string>
+    <string name="popular">Популярное</string>
+    <string name="find_film">Найди свой любимый фильм</string>
+    <string name="network_error_icon">Ошибка сети</string>
+    <string name="server_unavailable">Сервер недоступен.</string>
+    <string name="internet_unavailable">Произошла ошибка при загрузке данных, проверьте подключение к сети.</string>
+    <string name="unknown_error">Неопознанная ошибка.</string>
+    <string name="genres">Жанры: </string>
+    <string name="countries">Страны: </string>
+    <string name="poster_image">Постер</string>
+    <string name="back_icon">Назад</string>
+</resources>
