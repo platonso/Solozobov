@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MovieSearch</string>
+    <string name="app_name">FilmFinder</string>
     <string name="search_icon">Search Icon</string>
     <string name="popular">Popular</string>
     <string name="find_film">Find your favorite movie</string>
